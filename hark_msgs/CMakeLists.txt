@@ -53,6 +53,7 @@ add_message_files(
   HarkSrcWaveVal.msg
   HarkWave.msg
   HarkWaveVal.msg
+  promxy.msg
 )
 #uncomment if you have defined services
 add_service_files(
